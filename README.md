@@ -1,6 +1,6 @@
 # My personal website
 
 ## TODO
-* Resume
-* CV
+* Resume + CV
 * Self-introduction
+* Blog
