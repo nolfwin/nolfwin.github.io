@@ -2,6 +2,5 @@
 
 %%% UNDER CONSTRUCTION %%%
 
-Name: Nontawat Charoenphakdee
 
 
