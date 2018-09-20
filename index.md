@@ -1,6 +1,6 @@
 ## Welcome to Nolfwin's Page.
 
-%%% UNDER CONSTRUCTION %%%
+%%% UNDER CONSTRUCTION: COMING SOON %%%
 
 
 
