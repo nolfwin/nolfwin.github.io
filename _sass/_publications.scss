@@ -36,8 +36,9 @@
                 }
             }
             > em {
-                border-bottom: 1px solid;
+                // border-bottom: 1px solid;
                 font-style: normal;
+                color: mediumblue;
             }
         }
         a.abstract, a.bibtex { cursor: pointer; }
